@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Сапармурад Сапармурадов](https://up.htmlacademy.ru/ecmascript-individual/2/user/2420741).
-* Наставник: `Неизвестно`.
+* Наставник: [Артур Галимов](https://htmlacademy.ru/profile/id1237543).
 
 ---
 
